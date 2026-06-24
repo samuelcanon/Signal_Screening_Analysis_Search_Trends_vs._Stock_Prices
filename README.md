@@ -17,11 +17,16 @@ Live Dashboard: https://vhvxeyh7ytfk3spmpzdwej.streamlit.app/
 
 -------
 
-## Statistics
+## Key Findings
 
 -------
 
-## Key Findings
+## Statistics
+
+| # | Title                     | Type                     | Notes                        |
+|---|---------------------------|--------------------------|------------------------------|
+| 1 | Time Series (All Stocks)  | Histogram + box plot     |                              |
+| 2 | Lag Correlation Chart     | Bar + std dev error bars |                              |
 
 -------
 
@@ -50,6 +55,18 @@ Live Dashboard: https://vhvxeyh7ytfk3spmpzdwej.streamlit.app/
 **Notebook**
 
 **Dashboard**
+
+-------
+
+## Outputs
+
+Pre-run outputs are in /outputs so you can review result without running the notebook:
+ 
+| File                    | Contents                                               |
+|-------------------------|--------------------------------------------------------|
+| summary_stats.csv       | Top-level metrics: mean LOS, std dev, CI, burden rates |
+| condition_analysis.csv  | Per-comorbidity mean LOS and prevalence                |
+| facility_comparison.csv | Per-facility encounter count, mean LOS, std dev        |
 
 -------
 
