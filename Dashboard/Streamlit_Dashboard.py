@@ -358,3 +358,5 @@ st.caption("""
 This dashboard is for portfolio purposes and is not investment advice.
 Analysis period is Jan 2022 to Dec 2024.
 """)
+
+st.sidebar.info("⬅️ Use these controls to explore different stocks")
