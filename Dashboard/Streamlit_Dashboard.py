@@ -34,7 +34,7 @@ df_aligned, findings_df = load_data()
 st.sidebar.title("Controls")
 st.sidebar.markdown("---")
 
-select_stock = st.sidebar.selectedbox(
+select_stock = st.sidebar.selectbox(
     "Select Stock",
     options = ['TSLA', 'NVDA', 'META', 'JPM'],
     index = 0,
