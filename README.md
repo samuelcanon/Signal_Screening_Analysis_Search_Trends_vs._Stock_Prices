@@ -25,10 +25,10 @@ Live Dashboard: https://vhvxeyh7ytfk3spmpzdwej.streamlit.app/
 
 ## Statistics
 
-| # | Title                     | Type                     | Notes                        |
-|---|---------------------------|--------------------------|------------------------------|
-| 1 | Time Series (All Stocks)  | Histogram + box plot     |                              |
-| 2 | Lag Correlation Chart     | Bar + std dev error bars |                              |
+| # | Title        | Type                     | Notes                        |
+|---|--------------|--------------------------|------------------------------|
+| 1 | Pearson r    | Histogram + box plot     |                              |
+| 2 | Spearman r   | Bar + std dev error bars |                              |
 
 -------
 
