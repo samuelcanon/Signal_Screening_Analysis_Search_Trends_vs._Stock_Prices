@@ -101,7 +101,7 @@ Pearson r is the primary metric with Spearman r as a robustness check (a gap ove
 ![Time series](Charts/time_series_all_stocks.png)
 
 
-![Proxy comparison](Charts/proxy_comparison_chart.png)|
+![Proxy comparison](Charts/proxy_comparison_chart.png)
 
 -------
 ## Outputs
