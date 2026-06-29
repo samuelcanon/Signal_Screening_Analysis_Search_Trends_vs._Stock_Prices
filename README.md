@@ -15,12 +15,10 @@ This is a correlation and lag analysis study.
 
 ## Business Context
 
-no-go      |r| < 0.20          Explains under 4% of return movement — not worth pursuing
 
-investigate  0.20 <= |r| < 0.40  Worth a closer look
-
-go           |r| >= 0.40         Strong enough to build on
-
+|No-go||r| < 0.20|Explains under 4% of return movement — not worth pursuing|
+|Investigate|0.20 <= |r| < 0.40|Worth a closer look|
+|Go||r| >= 0.40 | Strong enough to build on| 
 
 -------
 
