@@ -18,9 +18,9 @@ This is a correlation and lag analysis study.
 The project is framed as a screening exercise for an investment advisory firm asking a practical question: before spending money building a tool around online trends/attention, is there a signal worth chasing?
 
 The ouput is a tiered recommendation per stock per source: 
-  no-go        |r| < 0.20          Explains under 4% of return movement — not worth pursuing
-  investigate  0.20 <= |r| < 0.40  Worth a closer look
-  go           |r| >= 0.40         Strong enough to build on
+- no-go  |  r < 0.20   (Not worth pursuing. Explains under 4% of return movement.)
+- investigate  |  0.20 <= r < 0.40  (Worth a closer look.)
+- go  |  r >= 0.40  (Strong enough to build on.)
 
 These thresholds are a business action bar, not a statistical convention. They are set before any results are seen. It answers how strong a correlation must be before a firm should look further into it. 
 
